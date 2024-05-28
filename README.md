@@ -1,7 +1,11 @@
+PROYECTO PROPIO API Y HOVER IMG
+=========
+Este proyecto se hizo con la intención de probar el hover y el api de unsplash [Resultado](https://mauriciorey03.github.io/testing_api)
+
+
 Hover Effect Ideas
 =========
 
-Some inspiration and modern ideas for subtle hover effects.
 
 [Article on Codrops](http://tympanus.net/codrops/?p=19292)
 
